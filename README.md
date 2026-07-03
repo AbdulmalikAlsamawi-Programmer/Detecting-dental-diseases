@@ -3,7 +3,7 @@
 An advanced Artificial Intelligence system for automatic analysis of panoramic dental radiographs. The system performs tooth segmentation, ROI extraction, disease detection, and structured report generation with minimal user interaction.
 
 <p align="center">
-  <img src="xray_periodontal.png" alt="Dental AI System Result" width="950">
+  <img src="xray_periodontal.png" alt="Dental AI System Result" width="800">
 </p>
 
 <p align="center">
@@ -144,7 +144,7 @@ Dental-AI-System/
 ## 📊 Example Output
 
 <p align="center">
-  <img src="IMG_20260424_055547_415.png" alt="Analysis Result" width="950">
+  <img src="IMG_20260424_055547_415.png" alt="Analysis Result" width="800">
 </p>
 
 The generated output includes:
